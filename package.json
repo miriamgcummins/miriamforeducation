@@ -1,0 +1,19 @@
+{
+  "name": "miriamforeducation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miriamgcummins/miriamforeducation.git"
+  },
+  "author": "Colin Lancaster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miriamgcummins/miriamforeducation/issues"
+  },
+  "homepage": "https://github.com/miriamgcummins/miriamforeducation#readme"
+}
