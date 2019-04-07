@@ -1,0 +1,24 @@
+{
+  "name": "miriamforeducation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miriamgcummins/miriamforeducation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miriamgcummins/miriamforeducation/issues"
+  },
+  "homepage": "https://miriamgcummins.github.io/miriamforeducation"
+}
