@@ -536,6 +536,8 @@ object {
   width: 50%; }
 
 @media only screen and (max-width: 56.25em) {
+  .about__wrapper {
+    width: 85%; }
   #family__image {
     width: 100%; } }
 
