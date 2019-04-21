@@ -342,7 +342,8 @@ main {
   .blogs {
     grid-template-columns: 1fr;
     top: 50%;
-    max-width: 100%; }
+    max-width: 100%;
+    margin-top: 10rem; }
   .card {
     margin: 5rem; }
   .card__side {
