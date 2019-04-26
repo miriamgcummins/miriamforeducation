@@ -9,7 +9,7 @@ a {
   color: #fff; }
 
 a:visited {
-  color: darkred; }
+  color: #2B546E; }
 
 html {
   font-size: 62.5%;
@@ -64,6 +64,23 @@ li {
 
 #fourOhFour {
   margin-top: 15rem; }
+
+.dbox-donation-button {
+  background: #2d81c5 url(https://d1iczxrky3cnb2.cloudfront.net/red_logo.png) no-repeat 56px center;
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.6rem;
+  padding: 2rem 16rem;
+  transition: .4s;
+  font-family: 'Roboto', sans-serif; }
+
+.dbox-donation-button:hover {
+  background-color: #4B7189;
+  cursor: pointer; }
+
+.dbox-donation-button:visited {
+  color: #fff; }
 
 main {
   background: url("../assets/hero.jpg") no-repeat center center fixed;
