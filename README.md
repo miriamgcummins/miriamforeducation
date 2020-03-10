@@ -12,14 +12,13 @@ However, when the site is being served by GitHub Pages, you will need to prepend
 
 ## Development Commands
 
-* $ `jekyll serve -w` - to serve up a dev site on `http://127.0.0.1:4000/miriamforeducation/`. 
+* $ `jekyll serve -w` - to serve up a dev site on `http://127.0.0.1:4000/miriamforeducation/`.
 * `jekyll build -w` - to create a new build in the `_site` folder. The `-w` flag _should_ watch the file and make a new build whenever there is a change, but I have had mixed results.
 * `npm run build:css -w` - to watch and build the CSS file every time there is a change.
 
-
 ## Deployment
 
-All you need 
+All you need push to the `gh-pages` branch. Code, check in, and commit as usual.
 ## Social Links
 
 [Text](https://www.facebook.com/MiriamGCumminsforEducation)
